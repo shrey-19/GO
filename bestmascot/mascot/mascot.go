@@ -1,7 +1,5 @@
-package mascot 
-import(
- "fmt"
-)
-func bestMascot() string {
- return "Tux"
+package mascot
+
+func BestMascot() string {
+	return "Tux"
 }
